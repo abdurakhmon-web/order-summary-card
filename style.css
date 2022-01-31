@@ -5,7 +5,8 @@
 }
 body{
     font-family: 'Red Hat Display', sans-serif;
-    background: #D6E1FF;  
+    background: hsl(225, 100%, 94%) url(./images/pattern-background-desktop.svg) no-repeat;
+    background-size: contain;
 }
 .cart{
     max-width: 375px;
