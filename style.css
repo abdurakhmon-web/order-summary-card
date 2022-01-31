@@ -6,7 +6,7 @@
 body{
     font-family: 'Red Hat Display', sans-serif;
     background: hsl(225, 100%, 94%) url(./images/pattern-background-desktop.svg) no-repeat;
-    background-size: contain;
+    background-size: cover;
 }
 .cart{
     max-width: 375px;
